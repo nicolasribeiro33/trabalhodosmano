@@ -1,0 +1,43 @@
+header {
+    background-color:aliceblue;
+    font-size:x-large;
+    padding: 20px;
+  }
+  
+  body {
+      width: 800px;
+      margin: 0 auto;
+      background-color: #000000;
+      padding: 0px;
+      border: 5px solid rgb(255, 255, 255);
+      text-align: center;
+    }
+  
+    html {
+      font-size: 20px;
+      font-family: "Open Sans", sans-serif;
+      background-color: #630000;
+    }
+  
+  .imagem {
+      transition: transform 0.2s ease;
+    }
+  .imagem:hover {
+      transform: scale(1.3) }
+  
+  figure {
+  margin: 0 auto;
+  display: block;
+  padding: 20px;
+  left: 0 auto;
+  text-align: center;
+  }
+  figcaption {
+      color: rgb(255, 255, 255);
+      padding: 20px;
+  }
+  
+  img {
+      display: auto;
+      width: 600px;
+  }
