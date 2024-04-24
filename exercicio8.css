@@ -1,0 +1,75 @@
+nav img {
+    width: 100px;
+    border: none;
+    margin-top: 10px;
+    padding: none;
+
+}
+
+button{
+    color: black;
+    background-color: orange;
+    border-radius: 4px;
+    box-sizing: content-box;
+    box-shadow: 1px 1px 1px rgb(29, 29, 29);
+}
+nav {
+    background-color: rgb(53, 50, 50);
+    border: none;
+    margin: 0px;
+    padding: 20px;
+    overflow: hidden;
+    
+}
+
+img {
+    width: 400px;
+
+}
+
+
+div img {
+    width: 50px;
+    padding: 25px;
+}
+
+header{
+    box-sizing: content-box;
+    margin: 50px;
+
+}
+
+header {
+    background-color: white;
+    
+}
+
+body {
+    
+    padding: 0px;
+    margin: 0px;
+
+}
+
+footer{
+    background-color: rgb(53, 50, 50);
+    text-align: center;
+    width: auto;
+}
+
+footer img {
+    width: 100px;
+    border: none;
+    margin: 10px;
+    padding: none;
+    margin-top: 15px;
+
+}
+
+.compra {
+    border: 2px  tan solid;
+    border-radius: 10px;
+    padding: 20px;
+    display: inline-block;
+   
+}

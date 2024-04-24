@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: pink;
+}
+
+
+
+div {
+    border-radius: 10px;
+    border-style:dashed;
+    border-width: 1px;
+    border-color: rgb(226, 163, 213);
+    margin: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+ }
+
+
+IMG {
+    float: left;
+}
+
+ 
